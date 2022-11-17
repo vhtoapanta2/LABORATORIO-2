@@ -103,7 +103,7 @@ Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
 
 ![image](https://user-images.githubusercontent.com/117923992/202581180-6320131c-90e2-41b2-abc0-e8af5277583c.png)
 
-En esta tabla esta todos los resultados  analiticos, experimentales y simulados es este laboratorio donde podemos observar en la tabla que los resultados obtenidos son los mismos, aunque en el resultado experimental los datos varinan un poco.
+En esta tabla estan recopilados todos los resultados  analiticos, experimentales y simulados de este laboratorio donde podemos tambien podemos observar que los resultados obtenidos son los mismos, aunque en el resultado experimental los datos varinan un poco.
 
        VIDEO
        
