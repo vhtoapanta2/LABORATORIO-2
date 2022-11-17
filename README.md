@@ -22,9 +22,20 @@
 PRÁCTICA No. 2 ANÁLISIS DE MALLAS
   
        OBJETIVOS DE LA PRACTICA
+
 OBJETIVOS GENERALES:
 
+Resolver y Diseñar circuitos electricos basicos empleaando sus leyes y principios fundamentales, generando una actitud reflexiva, analitica, creativa y ordenada que permita proyectar la asignatura en los sistemas de medicion y procesamiento.
+
 OBJETIVOS ESPECIFICOS:
+
+• Demostrar experimentalmente que la suma algebraica de las diferencias de potencial en una malla es nula.
+
+• Realizar y comparar los calculos precisos para resolver el circuito electrico con todos los elementos conectados entre si. 
+
+• Emplear el metodo mas sencillo e idoneo para la resolucion del circuito en este laboratorio.
+
+• Simular el circuito electrico en "tinkercad" o en algun simulador que ayude a verificar su funcionamiento y mediciones. 
 
        MARCO TEORICO
 
@@ -38,32 +49,38 @@ OBJETIVOS ESPECIFICOS:
 
 Implemente el circuito que se presenta en la figura 2.1.
 
-![image](https://user-images.githubusercontent.com/117923992/202454809-eb07bb36-85db-4513-837e-f1c474cfbc0c.png)
-
-![image](https://user-images.githubusercontent.com/117923992/202466397-4486d756-0daf-47af-b890-d74bb13b437e.png)
-
-![image](https://user-images.githubusercontent.com/117923992/202466471-adce0cf0-909b-47d4-972d-cfdc04ec46d7.png)
-
-![image](https://user-images.githubusercontent.com/117923992/202466605-c2462c52-8136-4adc-b436-bc2c04a32b87.png)
-
-![image](https://user-images.githubusercontent.com/117923992/202466649-c014b04b-7cca-45ea-b1d1-c8177cf040fc.png)
-
-![image](https://user-images.githubusercontent.com/117923992/202466699-a1420556-5ddd-4366-9e11-9460cc367155.png)
+![image](https://user-images.githubusercontent.com/117923992/202541553-9455e45d-51f0-43e8-bb42-4e22d44ad6bb.png)
 
 Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
 
+![image](https://user-images.githubusercontent.com/117923992/202540632-7aa80fe3-559a-4214-bece-a081ba0c65f9.png)
+
+
+![image](https://user-images.githubusercontent.com/117923992/202540974-8073bbf4-7132-48c2-a89f-1a9f9a0e8d2e.png)
+
+![image](https://user-images.githubusercontent.com/117923992/202541036-8c06f028-de3d-45a4-aa79-b946cdb75634.png)
+
+![image](https://user-images.githubusercontent.com/117923992/202541083-97c915b7-d6d0-4562-8f1d-96cf878bfb9e.png)
+
+![image](https://user-images.githubusercontent.com/117923992/202541214-ea4c1c8a-1afe-41a0-a892-f97d8a488916.png)
+
+
 Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
-Compare los valores de la tabla 2.1 y realice sus conclusiones.
+![image](https://user-images.githubusercontent.com/117923992/202538866-ef614200-6660-489b-bc21-5d2ecb0e311b.png)
 
 Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
 
 
        VIDEO
        
-Link:
+Link: https://youtu.be/w_Cn5O6ciYw
 
        CONCLUSIONES 
+ 
+Con lo antes expuesto se logro verificar exitosamente los metodos de anlisis de circuitos con la ayuda del simulador "tinkercad" se puede decir que los datos que se obtuvieron en la prctica tanto en la simulada como en el calculado fueron tomados de la mejor manera con un bajo margen de error. 
+
+Tambien a traves de la prctica del laboratorio podemos comprobar la teoria en este caso el Analisis de Mallas una herrmaienta que nos permite el anlisis de circuitos ya que existen otros metodos que tambien soy importantes, el metodo de anlisis de mallas nos permite ver de manera sencilla el comportamiento de la corriente y voltaje dentro de de uncircuito siempre y cuando las ecuaciones esten bien planteadas.
 
        BIBLIOGRAFIA
 
