@@ -11,8 +11,6 @@
      Integrantes:
      
      • Condor Vasconez Ariel Patricio
-
-     • Collaguazo Ushiña Alejandro Daniel
  
      • Toapanta Tipantuña Victor Hugo 
 
