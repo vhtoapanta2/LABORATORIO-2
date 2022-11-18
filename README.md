@@ -73,6 +73,14 @@ PARTE FISICA (EXPERIMENTAL):
 
 ![image](https://user-images.githubusercontent.com/117923992/202580620-67f44d16-36bd-48ab-8426-477159fc84db.png)
 
+FUENTE DE 3V
+
+![image](https://user-images.githubusercontent.com/117923992/202580905-f9a90f40-c80c-425b-b3a3-6238e1db1baa.png)
+
+FUENTE DE 5V
+
+![image](https://user-images.githubusercontent.com/117923992/202580963-c6754f82-eb5a-4c3c-aa49-6d73d39265d7.png)
+
 MALLA 1
 
 ![image](https://user-images.githubusercontent.com/117923992/202580693-ab6c1a15-fc4f-42fa-91ec-72bb2ae3a912.png)
@@ -85,13 +93,6 @@ MALLA 3
  
 ![image](https://user-images.githubusercontent.com/117923992/202580776-893e9c18-005a-43ff-a2af-3422808b9ea0.png)
 
-FUENTE DE 3V
-
-![image](https://user-images.githubusercontent.com/117923992/202580905-f9a90f40-c80c-425b-b3a3-6238e1db1baa.png)
-
-FUENTE DE 5V
-
-![image](https://user-images.githubusercontent.com/117923992/202580963-c6754f82-eb5a-4c3c-aa49-6d73d39265d7.png)
 
 Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
